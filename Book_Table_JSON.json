@@ -1,0 +1,44 @@
+[
+ {
+   "Book": "Python Crash Course",
+   "Author": "Eric Matthes",
+   "Publisher": "No Starch Press",
+   "Edition": "1st",
+   "Year": 2016
+ },
+ {
+   "Book": "Head-First Python",
+   "Author": "Paul Barry",
+   "Publisher": "O'Reilly",
+   "Edition": "2nd",
+   "Year": 2016
+ },
+ {
+   "Book": "Invent Your Own Computer Games with Python",
+   "Author": "Al Sweigart",
+   "Publisher": "No Starch Press",
+   "Edition": "4th",
+   "Year": 2017
+ },
+ {
+   "Book": "Think Python: How to Think Like a Computer Scientist, 2nd edition",
+   "Author": "Allen B. Downey",
+   "Publisher": "O'Reilly",
+   "Edition": "2nd",
+   "Year": 2015
+ },
+ {
+   "Book": "Effective Computation in Physics: Field Guide to Research with Python",
+   "Author": "Anthony Scopatz, Kathryn D. Huff",
+   "Publisher": "O'Reilly",
+   "Edition": "1st",
+   "Year": 2015
+ },
+ {
+   "Book": "Learn Python 3 the Hard Way",
+   "Author": "Zed A. Shaw",
+   "Publisher": "Addison-Wesley",
+   "Edition": "1st",
+   "Year": 2016
+ }
+]
